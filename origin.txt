@@ -1,0 +1,376 @@
+Uri: https://megafonforfriends2020.ru/
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\index.htm
+Content Type: text/html
+
+Uri: https://megafonforfriends2020.ru/img/bg.jpg
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://megafonforfriends2020.ru/img/favicon.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\favicon.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/fonts/stylesheet.css
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\stylesheet.css
+Content Type: text/css
+
+Uri: https://megafonforfriends2020.ru/css/style.css
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\css\style.css
+Content Type: text/css
+
+Uri: https://megafonforfriends2020.ru/video1.mp4
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\video1.mp4
+Content Type: video/mp4
+
+Uri: https://megafonforfriends2020.ru/video2.mp4
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\video2.mp4
+Content Type: video/mp4
+
+Uri: https://megafonforfriends2020.ru/video3.mp4
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\video3.mp4
+Content Type: video/mp4
+
+Uri: https://megafonforfriends2020.ru/video4.mp4
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\video4.mp4
+Content Type: video/mp4
+
+Uri: https://megafonforfriends2020.ru/video5.mp4
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\video5.mp4
+Content Type: video/mp4
+
+Uri: https://megafonforfriends2020.ru/video6.mp4
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\video6.mp4
+Content Type: video/mp4
+
+Uri: https://megafonforfriends2020.ru/img/my_mos.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\my_mos.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/js/jquery-3.4.1.min.js
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\js\jquery-3.4.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://megafonforfriends2020.ru/js/jquery-ui.min.js
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\js\jquery-ui.min.js
+Content Type: application/x-javascript
+
+Uri: https://megafonforfriends2020.ru/js/jquery.maskedinput.min.js
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\js\jquery.maskedinput.min.js
+Content Type: application/x-javascript
+
+Uri: https://megafonforfriends2020.ru/js/wow.min.js
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://megafonforfriends2020.ru/js/main.js
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-BoldItalic.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-BoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-BoldItalic.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-BoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-BoldItalic.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-BoldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-BoldItalic.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-BoldItalic.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Italic.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Italic.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Italic.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Italic.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Italic.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Medium.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Medium.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Medium.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Medium.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Medium.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-BlackItalic.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-BlackItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-BlackItalic.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-BlackItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-BlackItalic.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-BlackItalic.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-BlackItalic.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-BlackItalic.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Bold.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Bold.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Bold.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Bold.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Bold.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamProNarrow-Bold.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamProNarrow-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamProNarrow-Bold.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamProNarrow-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamProNarrow-Bold.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamProNarrow-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamProNarrow-Bold.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamProNarrow-Bold.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamProNarrow-Medium.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamProNarrow-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamProNarrow-Medium.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamProNarrow-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamProNarrow-Medium.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamProNarrow-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamProNarrow-Medium.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamProNarrow-Medium.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-LightItalic.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-LightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-LightItalic.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-LightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-LightItalic.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-LightItalic.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-LightItalic.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-LightItalic.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Light.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Light.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Light.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Light.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Light.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Light.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Black.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Black.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Black.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Black.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-Black.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-Black.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-MediumItalic.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-MediumItalic.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-MediumItalic.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-MediumItalic.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GothamPro-MediumItalic.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GothamPro-MediumItalic.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro-Black.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro-Black.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro-Black.woff2
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro-Black.woff2
+Content Type: application/font-woff2
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro-Black.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro-Black.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro-Black.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro-Black.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro-Black.svg
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro-Black.svg
+Content Type: image/svg+xml
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro.eot
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro.eot?
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro.woff2
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro.woff2
+Content Type: application/font-woff2
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro.woff
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro.woff
+Content Type: application/font-woff
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro.ttf
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro.bin
+Content Type: application/octet-stream
+
+Uri: https://megafonforfriends2020.ru/fonts/GTWalsheimPro.svg
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\fonts\GTWalsheimPro.svg
+Content Type: image/svg+xml
+
+Uri: https://megafonforfriends2020.ru/img/bg_top.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\bg_top.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/bg_bottom.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\bg_bottom.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/logo.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\logo.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/call.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\call.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/play.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\play.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/volume.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\volume.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/pause.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\pause.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/bg.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\bg.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/arr.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\arr.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/sprite.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\sprite.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/sprite_ch.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\sprite_ch.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/btn_start.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\btn_start.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/arr_mobile_w.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\arr_mobile_w.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/playm.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\playm.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/sprite_m.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\sprite_m.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/sprite_chm.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\sprite_chm.png
+Content Type: image/png
+
+Uri: https://megafonforfriends2020.ru/img/arrm.png
+File Name: c:\Downloaded Web Sites\megafonforfriends2020.ru\img\arrm.png
+Content Type: image/png
+
